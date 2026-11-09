@@ -1,0 +1,1 @@
+# medsyn-assets
